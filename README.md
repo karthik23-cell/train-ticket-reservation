@@ -22,7 +22,3 @@ san nmsa csa
 csanmsa cm
 vgcgvgvhgvhgvh
 'bvhbvh
-kjdjhjhfd
-hhghg
-hhgff
-gvjjhv
